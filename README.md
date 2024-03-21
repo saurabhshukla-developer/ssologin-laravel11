@@ -21,8 +21,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/saurabhshukla-developer/ssotest
-   cd ssotest
+   git clone https://github.com/saurabhshukla-developer/ssologin-laravel11
+   cd ssologin-laravel11
 
 2. **Install Dependencies**
     ```sh
